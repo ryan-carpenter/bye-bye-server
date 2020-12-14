@@ -179,6 +179,14 @@
      "subscription": "Yes",
      "license": "GPL v2 + 3",
      "marketplace": "Yes (Extensions Catalog)"
-    }
+    },
+    {
+      "title": "JetBrains Space™",
+      "link": "https://www.jetbrains.com/space/",
+      "hosting": "Cloud, On Premise",
+      "subscription": "Yes (Free, Team, Organization, Enterprise)",
+      "license": "Proprietary",
+      "marketplace": "Yes"
+    },
   ]
 }
